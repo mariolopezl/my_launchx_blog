@@ -9,8 +9,8 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
  Para mi la cultura de un profesional de software se base en
  
- -Honestidad
- -Responsabilidad
- -Respeto
- -Dedicacion
+ - Honestidad
+ - Responsabilidad
+ - Respeto
+ - Dedicacion
 🚀
